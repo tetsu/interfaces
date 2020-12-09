@@ -1,0 +1,2 @@
+# interfaces
+test go interfaces
